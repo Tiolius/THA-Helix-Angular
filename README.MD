@@ -72,15 +72,6 @@
   ```bash
   git --version
   ```
-
-**Вариант B — Portable Git**
-- Распакуйте `PortableGit` в `C:\git\PortableGit`
-- Добавьте `C:\git\PortableGit\bin` в `Path`
-- Проверьте:
-  ```bash
-  git --version
-  ```
-
 ---
 
 ### 4. Установите Node.js 16.20.1
