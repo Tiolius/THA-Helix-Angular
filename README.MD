@@ -43,6 +43,7 @@
 ### 2. Установите Maven 3.9.8
 
 1. Скачайте архив (`apache-maven-3.9.8-bin.zip` или `.tar.gz`) и распакуйте
+   - [⬇️ Maven](https://archive.apache.org/dist/maven/maven-3/3.9.8/binaries/)
 2. Создайте переменную `MAVEN_OPTS`:
    ```bash
    -Xms512m -Xmx1024m
