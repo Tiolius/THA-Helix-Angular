@@ -137,7 +137,7 @@ C:\Users\<User>\AppData\Roaming\npm
 | `node --version` | `v16.20.1` | При необходимости переключение через nvm |
 | `yarn --version` | `1.22.19` | Путь к Yarn в `PATH` |
 | `grunt --version` | `1.3.2` | Папка NPM в `PATH` |
-| `echo %RX_SDK_HOME%` | путь к SDK | Указывает на `com.bmc.arsys.rx.sdk-23.3.04` |
+| `echo %RX_SDK_HOME%` | путь к SDK | Указывает на `com.bmc.arsys.rx.sdk-23.3.02` |
 
 ---
 
