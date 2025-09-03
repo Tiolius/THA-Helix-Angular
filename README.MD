@@ -32,9 +32,9 @@
 1. Скачайте архив OpenJDK для вашей системы:
    - [⬇️ Windows (.zip)](https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.8.1%2B1/OpenJDK17U-jdk_x64_windows_hotspot_17.0.8.1_1.zip)
    - [⬇️ Linux / macOS (.tar.gz)](https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.8.1%2B1/OpenJDK17U-jdk_x64_mac_hotspot_17.0.8.1_1.tar.gz)
-2. Распакуйте, например в `C:\\Tools\\Java\\jdk-17.0.8.1+1\\`
+2. Распакуйте, например в `C:\Tools\Java\jdk-17.0.8.1+1\`
 3. Создайте переменную окружения `JAVA_HOME` → путь к каталогу JDK
-4. Добавьте `%JAVA_HOME%\\bin` в `PATH`
+4. Добавьте `%JAVA_HOME%\bin` в `PATH`
 
 ⚠️ Уберите из `PATH` ссылки на старые JRE (например, `C:\Program Files\Java\jre\bin`).
 
