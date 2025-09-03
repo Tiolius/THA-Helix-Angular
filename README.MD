@@ -126,16 +126,15 @@ C:\Users\<User>\AppData\Roaming\npm
 
 ### 7. Установите BMC Helix Innovation Studio SDK
 
-1. Скачайте архив **SDK 23.3.04**
+1. Скачайте архив **SDK 23.3.02**
 2. Распакуйте, например в `C:\sdk`
-3. Создайте переменную окружения `RX_SDK_HOME` → каталог SDK (`com.bmc.arsys.rx.sdk-23.3.04`)
+3. Создайте переменную окружения `RX_SDK_HOME` → каталог SDK (`com.bmc.arsys.rx.sdk-23.3.02`)
 4. Соберите зависимости:
    ```bash
-   cd C:\sdk\com.bmc.arsys.rx.sdk-23.3.04\lib
+   cd C:\sdk\com.bmc.arsys.rx.sdk-23.3.02\lib
    mvn clean install
    ```
 
-⚠️ Если использовалась версия SDK до 23.3.04 — обязательно обновитесь.
 
 ---
 
