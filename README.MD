@@ -214,7 +214,8 @@ http://127.0.0.1:8008/helix/index.html#/com.example.demo-library/view/com.exampl
 Измените 127.0.0.1 на адрес сервера Innovation Studio
 
 Отладочный сервер будет доступен по адресу
-```http://localhost:4200/helix/index.html#```
+
+http://localhost:4200/helix/index.html#
 
 ---
 
