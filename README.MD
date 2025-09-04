@@ -181,6 +181,6 @@ mvn clean install -Pdeploy -Pexport
 1. Перейдите в каталог фронтенда:
    ```bash
    cd C:\sdk\projects\demo-library\bundle\src\main\webapp
-2. ```npm start -apihost="127.0.0.1"
+2. ```npm start -apihost="127.0.0.1"```
 
 
