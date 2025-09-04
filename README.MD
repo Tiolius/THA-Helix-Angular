@@ -1,4 +1,12 @@
 # Настройка IDE и установка BMC Helix Innovation Studio SDK
+📚 Документация базируется на следующих ресурсах:
+
+1. [Setting up your IDE and installing BMC Helix Innovation Studio SDK](https://docs.bmc.com/xwiki/bin/view/Service-Management/Innovation-Suite/BMC-Helix-Innovation-Suite/is233/Developing-applications-by-using-BMC-Helix-Innovation-Studio/Developing-and-deploying-code-based-applications/Setting-up-the-environment-to-develop-a-code-based-application/Setting-up-your-IDE-and-installing-BMC-Helix-Innovation-Studio-SDK/)
+
+2. [Creating a Project using Maven and the Archetype](https://docs.bmc.com/xwiki/bin/view/Service-Management/Innovation-Suite/BMC-Helix-Innovation-Suite/is233/Developing-applications-by-using-BMC-Helix-Innovation-Studio/Developing-and-deploying-code-based-applications/Setting-up-the-environment-to-develop-a-code-based-application/Creating-a-Project-using-Maven-and-the-Archetype/)
+
+3. [Deploying your application for the first time to start working in BMC Helix Innovation Studio](https://docs.bmc.com/xwiki/bin/view/Service-Management/Innovation-Suite/BMC-Helix-Innovation-Suite/is233/Developing-applications-by-using-BMC-Helix-Innovation-Studio/Developing-and-deploying-code-based-applications/Setting-up-the-environment-to-develop-a-code-based-application/Deploying-your-application-for-the-first-time-to-start-working-in-BMC-Helix-Innovation-Studio/)
+
 ---
 
 ## 🔧 Что понадобится
