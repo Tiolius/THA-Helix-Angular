@@ -7,41 +7,6 @@
 3. [Deploying your application for the first time to start working in BMC Helix Innovation Studio](https://docs.bmc.com/xwiki/bin/view/Service-Management/Innovation-Suite/BMC-Helix-Innovation-Suite/is233/Developing-applications-by-using-BMC-Helix-Innovation-Studio/Developing-and-deploying-code-based-applications/Setting-up-the-environment-to-develop-a-code-based-application/Deploying-your-application-for-the-first-time-to-start-working-in-BMC-Helix-Innovation-Studio/)
 
 ---
-Проект состоит из **3 Records (таблиц)** и **3 Views** для отображения информации.
-
-<p float="left">
-  <img src="./img/records.png" width="25%" />
-  <img src="./img/views.png" width="26%" />
-</p>
-
-
-Для работы с приложением используйте следующие ссылки:
-
-🔗 URL доступа к проекту
-
-http://127.0.0.1:8008/helix/index.html#/com.bmc.arsys.rx.innovationstudio/com.example.demo-library/record-definitions
-
-🏠 URL Home Page с доступом к View
-
-http://127.0.0.1:8008/helix/index.html#/com.example.demo-library/view/com.example.demo-library:Books_View
-
-> ⚠️ Вместо `127.0.0.1` необходимо указать адрес сервера **Innovation Studio**.
-
----
-
-## 🛠️ Отладка приложения
-
-Для запуска отладки выполните следующие шаги:
-
-1. Перейдите в каталог фронтенда:
-   ```bash
-   cd C:\sdk\projects\demo-library\bundle\src\main\webapp
-2. Выполните команду:
-   ```npm start -apihost="127.0.0.1"```
-
-Измените 127.0.0.1 на адрес сервера Innovation Studio
-
----
 
 ## 🧩 Tooltip
 Создать Angular-компонент **Tooltip**, который поддерживает:  
