@@ -6,6 +6,8 @@
 
 3. [Deploying your application for the first time to start working in BMC Helix Innovation Studio](https://docs.bmc.com/xwiki/bin/view/Service-Management/Innovation-Suite/BMC-Helix-Innovation-Suite/is233/Developing-applications-by-using-BMC-Helix-Innovation-Studio/Developing-and-deploying-code-based-applications/Setting-up-the-environment-to-develop-a-code-based-application/Deploying-your-application-for-the-first-time-to-start-working-in-BMC-Helix-Innovation-Studio/)
 
+---
+
 ## 🛠️ Отладка приложения
 
 Для запуска отладки выполните следующие шаги:
