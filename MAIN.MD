@@ -7,6 +7,7 @@
    cd C:\sdk\projects\demo-library\bundle\src\main\webapp
 2. Выполните команду:
    ```npm start -apihost="127.0.0.1"```
+Измените 127.0.0.1 на адрес сервера Innovation Studio
 
 ---
 
