@@ -21,9 +21,11 @@
 Для работы с приложением используйте следующие ссылки:
 
 🔗 URL доступа к проекту
+
 http://127.0.0.1:8008/helix/index.html#/com.bmc.arsys.rx.innovationstudio/com.example.demo-library/record-definitions
 
 🏠 URL Home Page с доступом к View
+
 http://127.0.0.1:8008/helix/index.html#/com.example.demo-library/view/com.example.demo-library:Books_View
 
 > ⚠️ Вместо `127.0.0.1` необходимо указать адрес сервера **Innovation Studio**.
