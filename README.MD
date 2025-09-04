@@ -3,7 +3,7 @@
 
 ## 🔧 Что понадобится
 
-- Доступ к **BMC Helix Innovation Studio Developer Instance** (песочница)
+- Доступ к **BMC Helix Innovation Studio Sandbox** (песочница)
 - Права администратора на машине (Windows / macOS / Linux)
 
 💡 Рекомендуемые браузеры: **Google Chrome** или **Mozilla Firefox**
