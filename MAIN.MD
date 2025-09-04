@@ -44,20 +44,3 @@
 > или любой другой API по своему выбору.
 
 ---
-
-## 🖼️ Визуальные примеры (для вдохновения)
-
-### Tooltip
-![Tooltip Example](https://img.icons8.com/color/96/tooltip.png)
-
-### Валидация Email
-![Validation Example](https://img.icons8.com/color/96/error.png)
-
-### Input со стилями
-![Input Example](https://img.icons8.com/color/96/input.png)
-
-### Cards
-![Cards Example](https://img.icons8.com/color/96/business.png)
-
-### Table
-![Table Example](https://img.icons8.com/color/96/table.png)
