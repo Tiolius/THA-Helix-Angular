@@ -161,7 +161,7 @@ git clone https://github.com/VolkovDenisS/THA-Helix-Angular.git
 
 ### ✅ Проверка конфигурации
 
-Проверить корректность конфигурации можно выполнив команду:
+Проверить корректность конфигурации можно выполнив команду из папки проекта:
 
 ```bash
 mvn clean install -Pdeploy -Pexport -X
