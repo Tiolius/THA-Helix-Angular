@@ -182,6 +182,6 @@ mvn clean install -Pdeploy -Pexport
    ```bash
    cd C:\sdk\projects\demo-library\bundle\src\main\webapp
 2. Выполните команду:
-   ```npm start -apihost="127.0.0.1"
+   ```npm start -apihost="127.0.0.1"```
 
 
