@@ -13,8 +13,8 @@
 Проект состоит из **3 Records (таблиц)** и **3 Views** для отображения информации.
 
 <p float="left">
-  <img src="./img/records.png" width="45%" />
-  <img src="./img/views.png" width="45%" />
+  <img src="./img/records.png" width="25%" />
+  <img src="./img/views.png" width="25%" />
 </p>
 
 
