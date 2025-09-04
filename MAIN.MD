@@ -14,7 +14,7 @@
 
 <p float="left">
   <img src="./img/records.png" width="25%" />
-  <img src="./img/views.png" width="35%" />
+  <img src="./img/views.png" width="27%" />
 </p>
 
 
