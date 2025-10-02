@@ -6,7 +6,9 @@
 
 3. [Deploying your application for the first time to start working in BMC Helix Innovation Studio](https://docs.bmc.com/xwiki/bin/view/Service-Management/Innovation-Suite/BMC-Helix-Innovation-Suite/is233/Developing-applications-by-using-BMC-Helix-Innovation-Studio/Developing-and-deploying-code-based-applications/Setting-up-the-environment-to-develop-a-code-based-application/Deploying-your-application-for-the-first-time-to-start-working-in-BMC-Helix-Innovation-Studio/)
 
+3. [Vendor examples Github](https://github.com/bmchelix/innovation-studio-developer/tree/main/23.3.02/test210500/)
 ---
+**Задание рекомендуется выполнять с использованием встроенной функциональной дизайн системы ADAPT с использованием встроенных сервисов для получения данных**
 
 ## 🧩 Tooltip
 Создать Angular-компонент **Tooltip**, который поддерживает:  
@@ -37,14 +39,14 @@
 ## 🗂️ Компонент «Карточки»
 Создать компонент **«Карточки»** и отобразить список карточек на основе данных:  
 
-- данные можно взять из regular record **Books**,  
-- либо захардкодить массив объектов.  
+- данные можно взять из regular record **Books** с использованием встроенного сервиса
 
 ---
 
 ## 📊 Таблица с данными
 Создать таблицу с данными из формы **Books** (или любого стороннего API) и реализовать:  
 
+- данные можно взять из regular record **Books** с использованием встроенного сервиса
 - фильтрацию по одному или нескольким полям (например, `Title` или `Price`);  
 - пагинацию по страницам.  
 
