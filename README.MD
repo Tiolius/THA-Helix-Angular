@@ -228,12 +228,18 @@ http://localhost:4200/helix/index.html#
 
 Выполнить команды ниже:
 cd C:\sdk\projects\demo-library\bundle\src\main\webapp
+
 yarn config set ignore-engines true
 
+
 rmdir /s /q node_modules
+
 del yarn.lock
+
 yarn install
 
+
 cd C:\sdk\projects\demo-library
+
 mvn clean install -Pexport -Pdeploy -X
 
