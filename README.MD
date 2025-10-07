@@ -227,9 +227,9 @@ http://localhost:4200/helix/index.html#
 
 
 Выполнить команды ниже:
-cd C:\sdk\projects\demo-library\bundle\src\main\webapp
-
-yarn config set ignore-engines true
+   ```bash
+      cd C:\sdk\projects\demo-library\bundle\src\main\webapp
+      yarn config set ignore-engines true
 
 
 rmdir /s /q node_modules
