@@ -237,5 +237,5 @@ http://localhost:4200/helix/index.html#
       yarn install
 
       cd C:\sdk\projects\demo-library
-      mvn clean install -Pexport -Pdeploy -X```
+      mvn clean install -Pexport -Pdeploy -X
 
