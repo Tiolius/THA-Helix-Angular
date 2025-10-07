@@ -7,7 +7,9 @@
 
 3. [Deploying your application for the first time to start working in BMC Helix Innovation Studio](https://docs.bmc.com/xwiki/bin/view/Service-Management/Innovation-Suite/BMC-Helix-Innovation-Suite/is233/Developing-applications-by-using-BMC-Helix-Innovation-Studio/Developing-and-deploying-code-based-applications/Setting-up-the-environment-to-develop-a-code-based-application/Deploying-your-application-for-the-first-time-to-start-working-in-BMC-Helix-Innovation-Studio/)
 
-3. [Vendor examples Github](https://github.com/bmchelix/innovation-studio-developer/tree/main/23.3.02/test210500/)
+4. [Introduction to view components and view actions](https://docs.bmc.com/xwiki/bin/view/Service-Management/Innovation-Suite/BMC-Helix-Innovation-Suite/is233/Developing-applications-by-using-BMC-Helix-Innovation-Studio/Developing-and-deploying-code-based-applications/Introduction-to-view-components-and-view-actions/)
+
+5. [Vendor examples Github](https://github.com/bmchelix/innovation-studio-developer/tree/main/23.3.02/test210500/)
 
 
 ---
