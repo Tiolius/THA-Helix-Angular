@@ -222,3 +222,18 @@ http://localhost:4200/helix/index.html#
 
 ---
 
+При появлении ошибки
+[2/4] Fetching packages... error esbuild-wasm@0.25.9: The engine "node" is incompatible with this module. Expected version ">=18". Got "16.20.2" error Found incompatible module. info Visit https://yarnpkg.com/en/docs/cli/install for documentation about this command.
+
+
+Выполнить команды ниже:
+cd C:\sdk\projects\demo-library\bundle\src\main\webapp
+yarn config set ignore-engines true
+
+rmdir /s /q node_modules
+del yarn.lock
+yarn install
+
+cd C:\sdk\projects\demo-library
+mvn clean install -Pexport -Pdeploy -X
+
