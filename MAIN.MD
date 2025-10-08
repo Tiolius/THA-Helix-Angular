@@ -12,6 +12,12 @@
 
 ---
 **Важно! Задание рекомендуется выполнять с использованием встроенной функциональности дизайн системы ADAPT с использованием встроенных сервисов для получения данных**
+Для генерации компонентов рекомендуется опираться на документацию
+```bash
+    cd .\bundle\src\main\webapp 
+    npx ng g rx-view-component "component-name"
+
+[Introduction to view components and view actions](https://docs.bmc.com/xwiki/bin/view/Service-Management/Innovation-Suite/BMC-Helix-Innovation-Suite/is233/Developing-applications-by-using-BMC-Helix-Innovation-Studio/Developing-and-deploying-code-based-applications/Introduction-to-view-components-and-view-actions/)
 
 ## 🧩 Tooltip
 Создать Angular-компонент **Tooltip** (текстовое поле с тултипом), который поддерживает:  
