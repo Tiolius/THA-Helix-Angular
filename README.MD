@@ -7,7 +7,9 @@
 
 3. [Deploying your application for the first time to start working in BMC Helix Innovation Studio](https://docs.bmc.com/xwiki/bin/view/Service-Management/Innovation-Suite/BMC-Helix-Innovation-Suite/is233/Developing-applications-by-using-BMC-Helix-Innovation-Studio/Developing-and-deploying-code-based-applications/Setting-up-the-environment-to-develop-a-code-based-application/Deploying-your-application-for-the-first-time-to-start-working-in-BMC-Helix-Innovation-Studio/)
 
-3. [Vendor examples Github](https://github.com/bmchelix/innovation-studio-developer/tree/main/23.3.02/test210500/)
+4. [Introduction to view components and view actions](https://docs.bmc.com/xwiki/bin/view/Service-Management/Innovation-Suite/BMC-Helix-Innovation-Suite/is233/Developing-applications-by-using-BMC-Helix-Innovation-Studio/Developing-and-deploying-code-based-applications/Introduction-to-view-components-and-view-actions/)
+
+5. [Vendor examples Github](https://github.com/bmchelix/innovation-studio-developer/tree/main/23.3.02/test210500/)
 
 
 ---
@@ -27,7 +29,6 @@
 |-----------|---------|------------|
 | Java JDK  | 17.0.8.1+1 | Обязательная версия для SDK |
 | Maven     | 3.9.8 | Управление зависимостями и сборкой |
-| Eclipse IDE | 2024-06 + AJDT | Среда разработки |
 | Git       | GitHub Desktop или Portable Git | Система контроля версий |
 | Node.js   | 16.20.1 | Frontend-сборка |
 | Yarn      | 1.22.19 | Пакетный менеджер |
@@ -221,4 +222,21 @@ http://127.0.0.1:8008/helix/index.html#/com.example.demo-library/view/com.exampl
 http://localhost:4200/helix/index.html#
 
 ---
+
+При появлении ошибки
+[2/4] Fetching packages... error esbuild-wasm@0.25.9: The engine "node" is incompatible with this module. Expected version ">=18". Got "16.20.2" error Found incompatible module. info Visit https://yarnpkg.com/en/docs/cli/install for documentation about this command.
+
+
+Выполнить команды ниже:
+   ```bash
+      cd C:\sdk\projects\demo-library\bundle\src\main\webapp
+      yarn config set ignore-engines true
+
+
+      rmdir /s /q node_modules
+      del yarn.lock
+      yarn install
+
+      cd C:\sdk\projects\demo-library
+      mvn clean install -Pexport -Pdeploy -X
 
